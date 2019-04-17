@@ -1,0 +1,959 @@
+OSS: Generating process with PID 1837 and putting it in queue 0 at time 1:1000
+OSS: Dispatching process with PID 1 from queue 0 at time 1:1000
+OSS: total time this proc_dispatch was 42 nanoseconds
+OSS: Receiving that process with PID 1 is terminating
+OSS: Removing terminated process with PID 1 from queue 0
+OSS: Generating process with PID 1838 and putting it in queue 1 at time 2:2042
+OSS: Dispatching process with PID 2 from queue 1 at time 2:2042
+OSS: total time this proc_dispatch was 1763 nanoseconds
+OSS: Receiving that process with PID 2 is terminating
+OSS: Removing terminated process with PID 2 from queue 1
+OSS: Generating process with PID 1839 and putting it in queue 1 at time 3:4805
+OSS: Dispatching process with PID 3 from queue 1 at time 3:4805
+OSS: total time this proc_dispatch was 1247 nanoseconds
+OSS: Receiving that process with PID 3 is terminating
+OSS: Removing terminated process with PID 3 from queue 1
+OSS: Generating process with PID 1840 and putting it in queue 1 at time 4:7052
+OSS: Dispatching process with PID 4 from queue 1 at time 4:7052
+OSS: total time this proc_dispatch was 360 nanoseconds
+OSS: Receiving that process with PID 4 ran for 270000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 4 into queue 2
+OSS: Generating process with PID 1841 and putting it in queue 1 at time 5:278412
+OSS: Dispatching process with PID 5 from queue 1 at time 5:278412
+OSS: total time this proc_dispatch was 1811 nanoseconds
+OSS: Receiving that process with PID 5 is terminating
+OSS: Removing terminated process with PID 5 from queue 1
+OSS: Generating process with PID 1842 and putting it in queue 0 at time 6:281223
+OSS: Dispatching process with PID 6 from queue 0 at time 6:281223
+OSS: total time this proc_dispatch was 1435 nanoseconds
+OSS: Receiving that process with PID 6 is WAITING for event(6:283472) 6:282658
+OSS: Putting process with PID 6 into queue 4
+OSS: Generating process with PID 1843 and putting it in queue 1 at time 7:283658
+OSS: Unblocked PID 6 at 7:283658
+OSS: Dispatching process with PID 6 from queue 0 at time 7:283658
+OSS: total time this proc_dispatch was 638 nanoseconds
+OSS: Receiving that process with PID 6 is WAITING for event(11:284703) 7:284296
+OSS: Putting process with PID 6 into queue 4
+OSS: Generating process with PID 1844 and putting it in queue 0 at time 8:285296
+OSS: Dispatching process with PID 8 from queue 0 at time 8:285296
+OSS: total time this proc_dispatch was 1727 nanoseconds
+OSS: Receiving that process with PID 8 is terminating
+OSS: Removing terminated process with PID 8 from queue 0
+OSS: Generating process with PID 1846 and putting it in queue 1 at time 9:288023
+OSS: Dispatching process with PID 7 from queue 1 at time 9:288023
+OSS: total time this proc_dispatch was 1562 nanoseconds
+OSS: Receiving that process with PID 7 is terminating
+OSS: Removing terminated process with PID 7 from queue 1
+OSS: Generating process with PID 1847 and putting it in queue 1 at time 10:290585
+OSS: Dispatching process with PID 9 from queue 1 at time 10:290585
+OSS: total time this proc_dispatch was 36 nanoseconds
+OSS: Receiving that process with PID 9 is terminating
+OSS: Removing terminated process with PID 9 from queue 1
+OSS: Generating process with PID 1848 and putting it in queue 1 at time 11:291621
+OSS: Unblocked PID 6 at 11:291621
+OSS: Dispatching process with PID 6 from queue 0 at time 11:291621
+OSS: total time this proc_dispatch was 1669 nanoseconds
+OSS: Receiving that process with PID 6 is WAITING for event(12:293492) 11:293290
+OSS: Putting process with PID 6 into queue 4
+OSS: Generating process with PID 1849 and putting it in queue 0 at time 12:294290
+OSS: Unblocked PID 6 at 12:294290
+OSS: Dispatching process with PID 12 from queue 0 at time 12:294290
+OSS: total time this proc_dispatch was 856 nanoseconds
+OSS: Receiving that process with PID 12 is terminating
+OSS: Removing terminated process with PID 12 from queue 0
+OSS: Generating process with PID 1850 and putting it in queue 1 at time 13:296146
+OSS: Dispatching process with PID 6 from queue 0 at time 13:296146
+OSS: total time this proc_dispatch was 622 nanoseconds
+OSS: Receiving that process with PID 6 is WAITING for event(15:297651) 13:296768
+OSS: Putting process with PID 6 into queue 4
+OSS: Generating process with PID 1851 and putting it in queue 1 at time 14:297768
+OSS: Dispatching process with PID 10 from queue 1 at time 14:297768
+OSS: total time this proc_dispatch was 882 nanoseconds
+OSS: Receiving that process with PID 10 ran for 150000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 10 into queue 2
+OSS: Generating process with PID 1852 and putting it in queue 1 at time 15:449650
+OSS: Unblocked PID 6 at 15:449650
+OSS: Dispatching process with PID 6 from queue 0 at time 15:449650
+OSS: total time this proc_dispatch was 1645 nanoseconds
+OSS: Receiving that process with PID 6 is terminating
+OSS: Removing terminated process with PID 6 from queue 0
+OSS: Generating process with PID 1853 and putting it in queue 1 at time 16:452295
+OSS: Dispatching process with PID 11 from queue 1 at time 16:452295
+OSS: total time this proc_dispatch was 982 nanoseconds
+OSS: Receiving that process with PID 11 ran for 5000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 11 into queue 2
+OSS: Generating process with PID 1854 and putting it in queue 1 at time 17:459277
+OSS: Dispatching process with PID 13 from queue 1 at time 17:459277
+OSS: total time this proc_dispatch was 170 nanoseconds
+OSS: Receiving that process with PID 13 is terminating
+OSS: Removing terminated process with PID 13 from queue 1
+OSS: Generating process with PID 1855 and putting it in queue 1 at time 18:460447
+OSS: Dispatching process with PID 14 from queue 1 at time 18:460447
+OSS: total time this proc_dispatch was 978 nanoseconds
+OSS: Receiving that process with PID 14 is terminating
+OSS: Removing terminated process with PID 14 from queue 1
+OSS: Generating process with PID 1856 and putting it in queue 0 at time 19:462425
+OSS: Dispatching process with PID 19 from queue 0 at time 19:462425
+OSS: total time this proc_dispatch was 1930 nanoseconds
+OSS: Receiving that process with PID 19 is WAITING for event(22:465233) 19:464355
+OSS: Putting process with PID 19 into queue 4
+OSS: Generating process with PID 1857 and putting it in queue 1 at time 20:465355
+OSS: Dispatching process with PID 15 from queue 1 at time 20:465355
+OSS: total time this proc_dispatch was 609 nanoseconds
+OSS: Receiving that process with PID 15 is terminating
+OSS: Removing terminated process with PID 15 from queue 1
+OSS: Generating process with PID 1858 and putting it in queue 1 at time 21:466964
+OSS: Dispatching process with PID 16 from queue 1 at time 21:466964
+OSS: total time this proc_dispatch was 43 nanoseconds
+OSS: Receiving that process with PID 16 ran for 219999 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 16 into queue 2
+OSS: Generating process with PID 1859 and putting it in queue 0 at time 22:688006
+OSS: Unblocked PID 19 at 22:688006
+OSS: Dispatching process with PID 22 from queue 0 at time 22:688006
+OSS: total time this proc_dispatch was 984 nanoseconds
+OSS: Receiving that process with PID 22 is terminating
+OSS: Removing terminated process with PID 22 from queue 0
+OSS: Generating process with PID 1860 and putting it in queue 0 at time 23:689990
+OSS: Dispatching process with PID 19 from queue 0 at time 23:689990
+OSS: total time this proc_dispatch was 5 nanoseconds
+OSS: Receiving that process with PID 19 is terminating
+OSS: Removing terminated process with PID 19 from queue 0
+OSS: Generating process with PID 1861 and putting it in queue 1 at time 24:690995
+OSS: Dispatching process with PID 23 from queue 0 at time 24:690995
+OSS: total time this proc_dispatch was 139 nanoseconds
+OSS: Receiving that process with PID 23 is WAITING for event(25:691297) 24:691134
+OSS: Putting process with PID 23 into queue 4
+OSS: Generating process with PID 1862 and putting it in queue 1 at time 25:692134
+OSS: Unblocked PID 23 at 25:692134
+OSS: Dispatching process with PID 23 from queue 0 at time 25:692134
+OSS: total time this proc_dispatch was 783 nanoseconds
+OSS: Receiving that process with PID 23 is terminating
+OSS: Removing terminated process with PID 23 from queue 0
+OSS: Generating process with PID 1863 and putting it in queue 1 at time 26:693917
+OSS: Dispatching process with PID 17 from queue 1 at time 26:693917
+OSS: total time this proc_dispatch was 1537 nanoseconds
+OSS: Receiving that process with PID 17 is WAITING for event(26:695506) 26:695454
+OSS: Putting process with PID 17 into queue 4
+OSS: Generating process with PID 1864 and putting it in queue 1 at time 27:696454
+OSS: Unblocked PID 17 at 27:696454
+OSS: Dispatching process with PID 18 from queue 1 at time 27:696454
+OSS: total time this proc_dispatch was 1228 nanoseconds
+OSS: Receiving that process with PID 18 is terminating
+OSS: Removing terminated process with PID 18 from queue 1
+OSS: Generating process with PID 1865 and putting it in queue 1 at time 28:698682
+OSS: Dispatching process with PID 20 from queue 1 at time 28:698682
+OSS: total time this proc_dispatch was 471 nanoseconds
+OSS: Receiving that process with PID 20 ran for 395000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 20 into queue 2
+OSS: Generating process with PID 1866 and putting it in queue 1 at time 29:1095153
+OSS: Dispatching process with PID 21 from queue 1 at time 29:1095153
+OSS: total time this proc_dispatch was 1440 nanoseconds
+OSS: Receiving that process with PID 21 ran for 414999 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 21 into queue 2
+OSS: Generating process with PID 1867 and putting it in queue 0 at time 30:1512592
+OSS: Dispatching process with PID 30 from queue 0 at time 30:1512592
+OSS: total time this proc_dispatch was 1365 nanoseconds
+OSS: Receiving that process with PID 30 is terminating
+OSS: Removing terminated process with PID 30 from queue 0
+OSS: Generating process with PID 1868 and putting it in queue 1 at time 31:1514957
+OSS: Dispatching process with PID 24 from queue 1 at time 31:1514957
+OSS: total time this proc_dispatch was 604 nanoseconds
+OSS: Receiving that process with PID 24 is WAITING for event(35:1515968) 31:1515561
+OSS: Putting process with PID 24 into queue 4
+OSS: Generating process with PID 1869 and putting it in queue 0 at time 32:1516561
+OSS: Dispatching process with PID 32 from queue 0 at time 32:1516561
+OSS: total time this proc_dispatch was 1366 nanoseconds
+OSS: Receiving that process with PID 32 is terminating
+OSS: Removing terminated process with PID 32 from queue 0
+OSS: Generating process with PID 1870 and putting it in queue 1 at time 33:1518927
+OSS: Dispatching process with PID 25 from queue 1 at time 33:1518927
+OSS: total time this proc_dispatch was 1758 nanoseconds
+OSS: Receiving that process with PID 25 is terminating
+OSS: Removing terminated process with PID 25 from queue 1
+OSS: Generating process with PID 1871 and putting it in queue 1 at time 34:1521685
+OSS: Dispatching process with PID 26 from queue 1 at time 34:1521685
+OSS: total time this proc_dispatch was 40 nanoseconds
+OSS: Receiving that process with PID 26 is terminating
+OSS: Removing terminated process with PID 26 from queue 1
+OSS: Generating process with PID 1872 and putting it in queue 1 at time 35:1522725
+OSS: Unblocked PID 24 at 35:1522725
+OSS: Dispatching process with PID 27 from queue 1 at time 35:1522725
+OSS: total time this proc_dispatch was 575 nanoseconds
+OSS: Receiving that process with PID 27 is WAITING for event(37:1524093) 35:1523300
+OSS: Putting process with PID 27 into queue 4
+OSS: Generating process with PID 1873 and putting it in queue 1 at time 36:1524300
+OSS: Dispatching process with PID 17 from queue 1 at time 36:1524300
+OSS: total time this proc_dispatch was 596 nanoseconds
+OSS: Receiving that process with PID 17 is terminating
+OSS: Removing terminated process with PID 17 from queue 1
+OSS: Generating process with PID 1874 and putting it in queue 0 at time 37:1525896
+OSS: Unblocked PID 27 at 37:1525896
+OSS: Dispatching process with PID 37 from queue 0 at time 37:1525896
+OSS: total time this proc_dispatch was 291 nanoseconds
+OSS: Receiving that process with PID 37 is WAITING for event(39:1526453) 37:1526187
+OSS: Putting process with PID 37 into queue 4
+OSS: Generating process with PID 1875 and putting it in queue 1 at time 38:1527187
+OSS: Dispatching process with PID 28 from queue 1 at time 38:1527187
+OSS: total time this proc_dispatch was 1703 nanoseconds
+OSS: Receiving that process with PID 28 is terminating
+OSS: Removing terminated process with PID 28 from queue 1
+OSS: Generating process with PID 1876 and putting it in queue 1 at time 39:1529890
+OSS: Unblocked PID 37 at 39:1529890
+OSS: Dispatching process with PID 37 from queue 0 at time 39:1529890
+OSS: total time this proc_dispatch was 89 nanoseconds
+OSS: Receiving that process with PID 37 is terminating
+OSS: Removing terminated process with PID 37 from queue 0
+OSS: Generating process with PID 1877 and putting it in queue 1 at time 40:1530979
+OSS: Dispatching process with PID 29 from queue 1 at time 40:1530979
+OSS: total time this proc_dispatch was 798 nanoseconds
+OSS: Receiving that process with PID 29 ran for 360000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 29 into queue 2
+OSS: Generating process with PID 1878 and putting it in queue 1 at time 41:1892777
+OSS: Dispatching process with PID 31 from queue 1 at time 41:1892777
+OSS: total time this proc_dispatch was 842 nanoseconds
+OSS: Receiving that process with PID 31 is WAITING for event(41:1893666) 41:1893619
+OSS: Putting process with PID 31 into queue 4
+OSS: Generating process with PID 1879 and putting it in queue 0 at time 42:1894619
+OSS: Unblocked PID 31 at 42:1894619
+OSS: Dispatching process with PID 42 from queue 0 at time 42:1894619
+OSS: total time this proc_dispatch was 1007 nanoseconds
+OSS: Receiving that process with PID 42 is WAITING for event(45:1895886) 42:1895626
+OSS: Putting process with PID 42 into queue 4
+OSS: Generating process with PID 1880 and putting it in queue 1 at time 43:1896626
+OSS: Dispatching process with PID 33 from queue 1 at time 43:1896626
+OSS: total time this proc_dispatch was 1150 nanoseconds
+OSS: Receiving that process with PID 33 is terminating
+OSS: Removing terminated process with PID 33 from queue 1
+OSS: Generating process with PID 1881 and putting it in queue 0 at time 44:1898776
+OSS: Dispatching process with PID 44 from queue 0 at time 44:1898776
+OSS: total time this proc_dispatch was 839 nanoseconds
+OSS: Receiving that process with PID 44 is terminating
+OSS: Removing terminated process with PID 44 from queue 0
+OSS: Generating process with PID 1882 and putting it in queue 0 at time 45:1900615
+OSS: Unblocked PID 42 at 45:1900615
+OSS: Dispatching process with PID 45 from queue 0 at time 45:1900615
+OSS: total time this proc_dispatch was 9 nanoseconds
+OSS: Receiving that process with PID 45 is terminating
+OSS: Removing terminated process with PID 45 from queue 0
+OSS: Generating process with PID 1883 and putting it in queue 1 at time 46:1901624
+OSS: Dispatching process with PID 42 from queue 0 at time 46:1901624
+OSS: total time this proc_dispatch was 1278 nanoseconds
+OSS: Receiving that process with PID 42 ran for 109999 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 42 into queue 0
+OSS: Dispatching process with PID 42 from queue 0 at time 47:2013901
+OSS: total time this proc_dispatch was 1368 nanoseconds
+OSS: Receiving that process with PID 42 ran for 340000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 42 into queue 0
+OSS: Dispatching process with PID 42 from queue 0 at time 48:2356269
+OSS: total time this proc_dispatch was 1176 nanoseconds
+OSS: Receiving that process with PID 42 is terminating
+OSS: Removing terminated process with PID 42 from queue 0
+OSS: Generating process with PID 1884 and putting it in queue 1 at time 49:2358445
+OSS: Dispatching process with PID 34 from queue 1 at time 49:2358445
+OSS: total time this proc_dispatch was 1133 nanoseconds
+OSS: Receiving that process with PID 34 is terminating
+OSS: Removing terminated process with PID 34 from queue 1
+OSS: Generating process with PID 1885 and putting it in queue 1 at time 50:2360578
+OSS: Dispatching process with PID 35 from queue 1 at time 50:2360578
+OSS: total time this proc_dispatch was 1125 nanoseconds
+OSS: Receiving that process with PID 35 is terminating
+OSS: Removing terminated process with PID 35 from queue 1
+OSS: Generating process with PID 1886 and putting it in queue 1 at time 51:2362703
+OSS: Dispatching process with PID 24 from queue 1 at time 51:2362703
+OSS: total time this proc_dispatch was 58 nanoseconds
+OSS: Receiving that process with PID 24 ran for 140000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 24 into queue 2
+OSS: Dispatching process with PID 36 from queue 1 at time 52:2503761
+OSS: total time this proc_dispatch was 1744 nanoseconds
+OSS: Receiving that process with PID 36 is WAITING for event(54:2506242) 52:2505505
+OSS: Putting process with PID 36 into queue 4
+OSS: Dispatching process with PID 27 from queue 1 at time 53:2506505
+OSS: total time this proc_dispatch was 1344 nanoseconds
+OSS: Receiving that process with PID 27 ran for 465000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 27 into queue 2
+OSS: Unblocked PID 36 at 54:2973849
+OSS: Dispatching process with PID 38 from queue 1 at time 54:2973849
+OSS: total time this proc_dispatch was 1705 nanoseconds
+OSS: Receiving that process with PID 38 is terminating
+OSS: Removing terminated process with PID 38 from queue 1
+OSS: Generating process with PID 1887 and putting it in queue 1 at time 55:2976554
+OSS: Dispatching process with PID 39 from queue 1 at time 55:2976554
+OSS: total time this proc_dispatch was 1433 nanoseconds
+OSS: Receiving that process with PID 39 is terminating
+OSS: Removing terminated process with PID 39 from queue 1
+OSS: Generating process with PID 1888 and putting it in queue 1 at time 56:2978987
+OSS: Dispatching process with PID 40 from queue 1 at time 56:2978987
+OSS: total time this proc_dispatch was 1812 nanoseconds
+OSS: Receiving that process with PID 40 is terminating
+OSS: Removing terminated process with PID 40 from queue 1
+OSS: Generating process with PID 1889 and putting it in queue 0 at time 57:2981799
+OSS: Dispatching process with PID 52 from queue 0 at time 57:2981799
+OSS: total time this proc_dispatch was 1780 nanoseconds
+OSS: Receiving that process with PID 52 is terminating
+OSS: Removing terminated process with PID 52 from queue 0
+OSS: Generating process with PID 1890 and putting it in queue 1 at time 58:2984579
+OSS: Dispatching process with PID 41 from queue 1 at time 58:2984579
+OSS: total time this proc_dispatch was 1635 nanoseconds
+OSS: Receiving that process with PID 41 is WAITING for event(61:2986646) 58:2986214
+OSS: Putting process with PID 41 into queue 4
+OSS: Dispatching process with PID 31 from queue 1 at time 59:2987214
+OSS: total time this proc_dispatch was 1759 nanoseconds
+OSS: Receiving that process with PID 31 is terminating
+OSS: Removing terminated process with PID 31 from queue 1
+OSS: Generating process with PID 1891 and putting it in queue 1 at time 60:2989973
+OSS: Dispatching process with PID 43 from queue 1 at time 60:2989973
+OSS: total time this proc_dispatch was 136 nanoseconds
+OSS: Receiving that process with PID 43 is terminating
+OSS: Removing terminated process with PID 43 from queue 1
+OSS: Generating process with PID 1892 and putting it in queue 0 at time 61:2991109
+OSS: Unblocked PID 41 at 61:2991109
+OSS: Dispatching process with PID 55 from queue 0 at time 61:2991109
+OSS: total time this proc_dispatch was 201 nanoseconds
+OSS: Receiving that process with PID 55 is terminating
+OSS: Removing terminated process with PID 55 from queue 0
+OSS: Generating process with PID 1894 and putting it in queue 1 at time 62:2992310
+OSS: Dispatching process with PID 46 from queue 1 at time 62:2992310
+OSS: total time this proc_dispatch was 1315 nanoseconds
+OSS: Receiving that process with PID 46 is terminating
+OSS: Removing terminated process with PID 46 from queue 1
+OSS: Generating process with PID 1895 and putting it in queue 1 at time 63:2994625
+OSS: Dispatching process with PID 47 from queue 1 at time 63:2994625
+OSS: total time this proc_dispatch was 484 nanoseconds
+OSS: Receiving that process with PID 47 is terminating
+OSS: Removing terminated process with PID 47 from queue 1
+OSS: Generating process with PID 1896 and putting it in queue 0 at time 64:2996109
+OSS: Dispatching process with PID 58 from queue 0 at time 64:2996109
+OSS: total time this proc_dispatch was 177 nanoseconds
+OSS: Receiving that process with PID 58 is terminating
+OSS: Removing terminated process with PID 58 from queue 0
+OSS: Generating process with PID 1897 and putting it in queue 1 at time 65:2997286
+OSS: Dispatching process with PID 48 from queue 1 at time 65:2997286
+OSS: total time this proc_dispatch was 1146 nanoseconds
+OSS: Receiving that process with PID 48 is WAITING for event(68:2998613) 65:2998432
+OSS: Putting process with PID 48 into queue 4
+OSS: Dispatching process with PID 49 from queue 1 at time 66:2999432
+OSS: total time this proc_dispatch was 1520 nanoseconds
+OSS: Receiving that process with PID 49 is terminating
+OSS: Removing terminated process with PID 49 from queue 1
+OSS: Generating process with PID 1898 and putting it in queue 1 at time 67:3001952
+OSS: Dispatching process with PID 36 from queue 1 at time 67:3001952
+OSS: total time this proc_dispatch was 937 nanoseconds
+OSS: Receiving that process with PID 36 is WAITING for event(70:3003023) 67:3002889
+OSS: Putting process with PID 36 into queue 4
+OSS: Unblocked PID 48 at 68:3003889
+OSS: Dispatching process with PID 50 from queue 1 at time 68:3003889
+OSS: total time this proc_dispatch was 1458 nanoseconds
+OSS: Receiving that process with PID 50 ran for 90000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 50 into queue 2
+OSS: Dispatching process with PID 51 from queue 1 at time 69:3096347
+OSS: total time this proc_dispatch was 1724 nanoseconds
+OSS: Receiving that process with PID 51 is terminating
+OSS: Removing terminated process with PID 51 from queue 1
+OSS: Generating process with PID 1899 and putting it in queue 1 at time 70:3099071
+OSS: Unblocked PID 36 at 70:3099071
+OSS: Dispatching process with PID 53 from queue 1 at time 70:3099071
+OSS: total time this proc_dispatch was 113 nanoseconds
+OSS: Receiving that process with PID 53 is WAITING for event(70:3099324) 70:3099184
+OSS: Putting process with PID 53 into queue 4
+OSS: Unblocked PID 53 at 71:3100184
+OSS: Dispatching process with PID 54 from queue 1 at time 71:3100184
+OSS: total time this proc_dispatch was 1164 nanoseconds
+OSS: Receiving that process with PID 54 ran for 235000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 54 into queue 2
+OSS: Dispatching process with PID 41 from queue 1 at time 72:3337348
+OSS: total time this proc_dispatch was 0 nanoseconds
+OSS: Receiving that process with PID 41 is WAITING for event(74:3337474) 72:3337348
+OSS: Putting process with PID 41 into queue 4
+OSS: Dispatching process with PID 56 from queue 1 at time 73:3338348
+OSS: total time this proc_dispatch was 1989 nanoseconds
+OSS: Receiving that process with PID 56 is WAITING for event(76:3341182) 73:3340337
+OSS: Putting process with PID 56 into queue 4
+OSS: Unblocked PID 41 at 74:3341337
+OSS: Dispatching process with PID 57 from queue 1 at time 74:3341337
+OSS: total time this proc_dispatch was 660 nanoseconds
+OSS: Receiving that process with PID 57 ran for 270000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 57 into queue 2
+OSS: Dispatching process with PID 59 from queue 1 at time 75:3612997
+OSS: total time this proc_dispatch was 203 nanoseconds
+OSS: Receiving that process with PID 59 is terminating
+OSS: Removing terminated process with PID 59 from queue 1
+OSS: Generating process with PID 1900 and putting it in queue 0 at time 76:3614200
+OSS: Unblocked PID 56 at 76:3614200
+OSS: Dispatching process with PID 62 from queue 0 at time 76:3614200
+OSS: total time this proc_dispatch was 1530 nanoseconds
+OSS: Receiving that process with PID 62 ran for 119999 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 62 into queue 0
+OSS: Dispatching process with PID 62 from queue 0 at time 77:3736729
+OSS: total time this proc_dispatch was 811 nanoseconds
+OSS: Receiving that process with PID 62 ran for 770000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 62 into queue 0
+OSS: Dispatching process with PID 62 from queue 0 at time 78:4508540
+OSS: total time this proc_dispatch was 581 nanoseconds
+OSS: Receiving that process with PID 62 is terminating
+OSS: Removing terminated process with PID 62 from queue 0
+OSS: Generating process with PID 1901 and putting it in queue 0 at time 79:4510121
+OSS: Dispatching process with PID 63 from queue 0 at time 79:4510121
+OSS: total time this proc_dispatch was 1017 nanoseconds
+OSS: Receiving that process with PID 63 is terminating
+OSS: Removing terminated process with PID 63 from queue 0
+OSS: Generating process with PID 1902 and putting it in queue 1 at time 80:4512138
+OSS: Dispatching process with PID 60 from queue 1 at time 80:4512138
+OSS: total time this proc_dispatch was 893 nanoseconds
+OSS: Receiving that process with PID 60 ran for 425000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 60 into queue 2
+OSS: Dispatching process with PID 48 from queue 1 at time 81:4939031
+OSS: total time this proc_dispatch was 1683 nanoseconds
+OSS: Receiving that process with PID 48 is terminating
+OSS: Removing terminated process with PID 48 from queue 1
+OSS: Generating process with PID 1903 and putting it in queue 1 at time 82:4941714
+OSS: Dispatching process with PID 61 from queue 1 at time 82:4941714
+OSS: total time this proc_dispatch was 1418 nanoseconds
+OSS: Receiving that process with PID 61 is terminating
+OSS: Removing terminated process with PID 61 from queue 1
+OSS: Generating process with PID 1904 and putting it in queue 1 at time 83:4944132
+OSS: Dispatching process with PID 36 from queue 1 at time 83:4944132
+OSS: total time this proc_dispatch was 1640 nanoseconds
+OSS: Receiving that process with PID 36 is terminating
+OSS: Removing terminated process with PID 36 from queue 1
+OSS: Generating process with PID 1905 and putting it in queue 1 at time 84:4946772
+OSS: Dispatching process with PID 53 from queue 1 at time 84:4946772
+OSS: total time this proc_dispatch was 700 nanoseconds
+OSS: Receiving that process with PID 53 is terminating
+OSS: Removing terminated process with PID 53 from queue 1
+OSS: Generating process with PID 1906 and putting it in queue 1 at time 85:4948472
+OSS: Dispatching process with PID 41 from queue 1 at time 85:4948472
+OSS: total time this proc_dispatch was 1036 nanoseconds
+OSS: Receiving that process with PID 41 is terminating
+OSS: Removing terminated process with PID 41 from queue 1
+OSS: Generating process with PID 1907 and putting it in queue 1 at time 86:4950508
+OSS: Dispatching process with PID 56 from queue 1 at time 86:4950508
+OSS: total time this proc_dispatch was 88 nanoseconds
+OSS: Receiving that process with PID 56 is WAITING for event(87:4950949) 86:4950596
+OSS: Putting process with PID 56 into queue 4
+OSS: Unblocked PID 56 at 87:4951596
+OSS: Dispatching process with PID 64 from queue 1 at time 87:4951596
+OSS: total time this proc_dispatch was 239 nanoseconds
+OSS: Receiving that process with PID 64 is terminating
+OSS: Removing terminated process with PID 64 from queue 1
+OSS: Generating process with PID 1908 and putting it in queue 1 at time 88:4952835
+OSS: Dispatching process with PID 65 from queue 1 at time 88:4952835
+OSS: total time this proc_dispatch was 1782 nanoseconds
+OSS: Receiving that process with PID 65 is terminating
+OSS: Removing terminated process with PID 65 from queue 1
+OSS: Generating process with PID 1909 and putting it in queue 1 at time 89:4955617
+OSS: Dispatching process with PID 66 from queue 1 at time 89:4955617
+OSS: total time this proc_dispatch was 893 nanoseconds
+OSS: Receiving that process with PID 66 is WAITING for event(90:4957317) 89:4956510
+OSS: Putting process with PID 66 into queue 4
+OSS: Unblocked PID 66 at 90:4957510
+OSS: Dispatching process with PID 67 from queue 1 at time 90:4957510
+OSS: total time this proc_dispatch was 704 nanoseconds
+OSS: Receiving that process with PID 67 is terminating
+OSS: Removing terminated process with PID 67 from queue 1
+OSS: Generating process with PID 1910 and putting it in queue 1 at time 91:4959214
+OSS: Dispatching process with PID 68 from queue 1 at time 91:4959214
+OSS: total time this proc_dispatch was 1209 nanoseconds
+OSS: Receiving that process with PID 68 is WAITING for event(94:4960583) 91:4960423
+OSS: Putting process with PID 68 into queue 4
+OSS: Dispatching process with PID 69 from queue 1 at time 92:4961423
+OSS: total time this proc_dispatch was 1842 nanoseconds
+OSS: Receiving that process with PID 69 is WAITING for event(93:4963764) 92:4963265
+OSS: Putting process with PID 69 into queue 4
+OSS: Unblocked PID 69 at 93:4964265
+OSS: Dispatching process with PID 56 from queue 1 at time 93:4964265
+OSS: total time this proc_dispatch was 209 nanoseconds
+OSS: Receiving that process with PID 56 is WAITING for event(94:4965406) 93:4964474
+OSS: Putting process with PID 56 into queue 4
+OSS: Unblocked PID 68 at 94:4965474
+OSS: Dispatching process with PID 70 from queue 1 at time 94:4965474
+OSS: total time this proc_dispatch was 1245 nanoseconds
+OSS: Receiving that process with PID 70 ran for 435000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 70 into queue 2
+OSS: Unblocked PID 56 at 95:5402719
+OSS: Dispatching process with PID 71 from queue 1 at time 95:5402719
+OSS: total time this proc_dispatch was 1114 nanoseconds
+OSS: Receiving that process with PID 71 is terminating
+OSS: Removing terminated process with PID 71 from queue 1
+OSS: Generating process with PID 1911 and putting it in queue 0 at time 96:5404833
+OSS: Dispatching process with PID 73 from queue 0 at time 96:5404833
+OSS: total time this proc_dispatch was 1406 nanoseconds
+OSS: Receiving that process with PID 73 ran for 590000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 73 into queue 0
+OSS: Dispatching process with PID 73 from queue 0 at time 97:5997239
+OSS: total time this proc_dispatch was 1557 nanoseconds
+OSS: Receiving that process with PID 73 is terminating
+OSS: Removing terminated process with PID 73 from queue 0
+OSS: Generating process with PID 1912 and putting it in queue 0 at time 98:5999796
+OSS: Dispatching process with PID 74 from queue 0 at time 98:5999796
+OSS: total time this proc_dispatch was 354 nanoseconds
+OSS: Receiving that process with PID 74 is terminating
+OSS: Removing terminated process with PID 74 from queue 0
+OSS: Generating process with PID 1913 and putting it in queue 1 at time 99:6001150
+OSS: Dispatching process with PID 66 from queue 1 at time 99:6001150
+OSS: total time this proc_dispatch was 314 nanoseconds
+OSS: Receiving that process with PID 66 is terminating
+OSS: Removing terminated process with PID 66 from queue 1
+OSS: Generating process with PID 1914 and putting it in queue 1 at time 100:6002464
+OSS: Dispatching process with PID 72 from queue 1 at time 100:6002464
+OSS: total time this proc_dispatch was 485 nanoseconds
+OSS: Receiving that process with PID 72 ran for 405000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 72 into queue 2
+OSS: Dispatching process with PID 69 from queue 1 at time 101:6408949
+OSS: total time this proc_dispatch was 680 nanoseconds
+OSS: Receiving that process with PID 69 ran for 270000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 69 into queue 2
+OSS: Dispatching process with PID 68 from queue 1 at time 102:6680629
+OSS: total time this proc_dispatch was 889 nanoseconds
+OSS: Receiving that process with PID 68 is terminating
+OSS: Removing terminated process with PID 68 from queue 1
+OSS: Generating process with PID 1915 and putting it in queue 0 at time 103:6682518
+OSS: Dispatching process with PID 77 from queue 0 at time 103:6682518
+OSS: total time this proc_dispatch was 1769 nanoseconds
+OSS: Receiving that process with PID 77 is WAITING for event(103:6684981) 103:6684287
+OSS: Putting process with PID 77 into queue 4
+OSS: Unblocked PID 77 at 104:6685287
+OSS: Dispatching process with PID 77 from queue 0 at time 104:6685287
+OSS: total time this proc_dispatch was 1288 nanoseconds
+OSS: Receiving that process with PID 77 ran for 10000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 77 into queue 0
+OSS: Dispatching process with PID 77 from queue 0 at time 105:6697575
+OSS: total time this proc_dispatch was 694 nanoseconds
+OSS: Receiving that process with PID 77 is WAITING for event(107:6698750) 105:6698269
+OSS: Putting process with PID 77 into queue 4
+OSS: Dispatching process with PID 56 from queue 1 at time 106:6699269
+OSS: total time this proc_dispatch was 604 nanoseconds
+OSS: Receiving that process with PID 56 is WAITING for event(106:6700026) 106:6699873
+OSS: Putting process with PID 56 into queue 4
+OSS: Unblocked PID 77 at 107:6700873
+OSS: Dispatching process with PID 77 from queue 0 at time 107:6700873
+OSS: total time this proc_dispatch was 93 nanoseconds
+OSS: Receiving that process with PID 77 is terminating
+OSS: Removing terminated process with PID 77 from queue 0
+OSS: Generating process with PID 1916 and putting it in queue 0 at time 108:6701966
+OSS: Unblocked PID 56 at 108:6701966
+OSS: Dispatching process with PID 78 from queue 0 at time 108:6701966
+OSS: total time this proc_dispatch was 1649 nanoseconds
+OSS: Receiving that process with PID 78 is terminating
+OSS: Removing terminated process with PID 78 from queue 0
+OSS: Generating process with PID 1917 and putting it in queue 1 at time 109:6704615
+OSS: Dispatching process with PID 75 from queue 1 at time 109:6704615
+OSS: total time this proc_dispatch was 1261 nanoseconds
+OSS: Receiving that process with PID 75 is terminating
+OSS: Removing terminated process with PID 75 from queue 1
+OSS: Generating process with PID 1918 and putting it in queue 1 at time 110:6706876
+OSS: Dispatching process with PID 76 from queue 1 at time 110:6706876
+OSS: total time this proc_dispatch was 1385 nanoseconds
+OSS: Receiving that process with PID 76 is terminating
+OSS: Removing terminated process with PID 76 from queue 1
+OSS: Generating process with PID 1919 and putting it in queue 1 at time 111:6709261
+OSS: Dispatching process with PID 56 from queue 1 at time 111:6709261
+OSS: total time this proc_dispatch was 1398 nanoseconds
+OSS: Receiving that process with PID 56 ran for 5000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 56 into queue 2
+OSS: Dispatching process with PID 79 from queue 1 at time 112:6716659
+OSS: total time this proc_dispatch was 1520 nanoseconds
+OSS: Receiving that process with PID 79 is terminating
+OSS: Removing terminated process with PID 79 from queue 1
+OSS: Generating process with PID 1920 and putting it in queue 1 at time 113:6719179
+OSS: Dispatching process with PID 80 from queue 1 at time 113:6719179
+OSS: total time this proc_dispatch was 1977 nanoseconds
+OSS: Receiving that process with PID 80 is terminating
+OSS: Removing terminated process with PID 80 from queue 1
+OSS: Generating process with PID 1921 and putting it in queue 1 at time 114:6722156
+OSS: Dispatching process with PID 81 from queue 1 at time 114:6722156
+OSS: total time this proc_dispatch was 1207 nanoseconds
+OSS: Receiving that process with PID 81 is terminating
+OSS: Removing terminated process with PID 81 from queue 1
+OSS: Generating process with PID 1922 and putting it in queue 0 at time 115:6724363
+OSS: Dispatching process with PID 84 from queue 0 at time 115:6724363
+OSS: total time this proc_dispatch was 552 nanoseconds
+OSS: Receiving that process with PID 84 is terminating
+OSS: Removing terminated process with PID 84 from queue 0
+OSS: Generating process with PID 1923 and putting it in queue 0 at time 116:6725915
+OSS: Dispatching process with PID 85 from queue 0 at time 116:6725915
+OSS: total time this proc_dispatch was 1377 nanoseconds
+OSS: Receiving that process with PID 85 is terminating
+OSS: Removing terminated process with PID 85 from queue 0
+OSS: Generating process with PID 1924 and putting it in queue 1 at time 117:6728292
+OSS: Dispatching process with PID 82 from queue 1 at time 117:6728292
+OSS: total time this proc_dispatch was 798 nanoseconds
+OSS: Receiving that process with PID 82 is terminating
+OSS: Removing terminated process with PID 82 from queue 1
+OSS: Generating process with PID 1925 and putting it in queue 1 at time 118:6730090
+OSS: Dispatching process with PID 83 from queue 1 at time 118:6730090
+OSS: total time this proc_dispatch was 511 nanoseconds
+OSS: Receiving that process with PID 83 is WAITING for event(122:6731208) 118:6730601
+OSS: Putting process with PID 83 into queue 4
+OSS: Dispatching process with PID 86 from queue 1 at time 119:6731601
+OSS: total time this proc_dispatch was 1489 nanoseconds
+OSS: Receiving that process with PID 86 is terminating
+OSS: Removing terminated process with PID 86 from queue 1
+OSS: Generating process with PID 1927 and putting it in queue 1 at time 120:6734090
+OSS: Dispatching process with PID 87 from queue 1 at time 120:6734090
+OSS: total time this proc_dispatch was 773 nanoseconds
+OSS: Receiving that process with PID 87 is terminating
+OSS: Removing terminated process with PID 87 from queue 1
+OSS: Generating process with PID 1928 and putting it in queue 1 at time 121:6735863
+OSS: Dispatching process with PID 88 from queue 1 at time 121:6735863
+OSS: total time this proc_dispatch was 1095 nanoseconds
+OSS: Receiving that process with PID 88 ran for 420000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 88 into queue 2
+OSS: Unblocked PID 83 at 122:7157958
+OSS: Dispatching process with PID 89 from queue 1 at time 122:7157958
+OSS: total time this proc_dispatch was 1855 nanoseconds
+OSS: Receiving that process with PID 89 ran for 119999 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 89 into queue 2
+OSS: Dispatching process with PID 83 from queue 1 at time 123:7280812
+OSS: total time this proc_dispatch was 1098 nanoseconds
+OSS: Receiving that process with PID 83 is terminating
+OSS: Removing terminated process with PID 83 from queue 1
+OSS: Generating process with PID 1929 and putting it in queue 1 at time 124:7282910
+OSS: Dispatching process with PID 90 from queue 1 at time 124:7282910
+OSS: total time this proc_dispatch was 959 nanoseconds
+OSS: Receiving that process with PID 90 is terminating
+OSS: Removing terminated process with PID 90 from queue 1
+OSS: Generating process with PID 1930 and putting it in queue 0 at time 125:7284869
+OSS: Dispatching process with PID 91 from queue 0 at time 125:7284869
+OSS: total time this proc_dispatch was 716 nanoseconds
+OSS: Receiving that process with PID 91 ran for 940000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 91 into queue 0
+OSS: Dispatching process with PID 91 from queue 0 at time 126:8226585
+OSS: total time this proc_dispatch was 1841 nanoseconds
+OSS: Receiving that process with PID 91 is terminating
+OSS: Removing terminated process with PID 91 from queue 0
+OSS: Generating process with PID 1931 and putting it in queue 1 at time 127:8229426
+OSS: Dispatching process with PID 92 from queue 1 at time 127:8229426
+OSS: total time this proc_dispatch was 522 nanoseconds
+OSS: Receiving that process with PID 92 is WAITING for event(131:8230504) 127:8229948
+OSS: Putting process with PID 92 into queue 4
+OSS: Dispatching process with PID 4 from queue 2 at time 128:8230948
+OSS: total time this proc_dispatch was 1775 nanoseconds
+OSS: Receiving that process with PID 4 ran for 10000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 4 into queue 3
+OSS: Dispatching process with PID 10 from queue 2 at time 129:8243723
+OSS: total time this proc_dispatch was 900 nanoseconds
+OSS: Receiving that process with PID 10 ran for 62500 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 10 into queue 3
+OSS: Dispatching process with PID 11 from queue 2 at time 130:8308123
+OSS: total time this proc_dispatch was 834 nanoseconds
+OSS: Receiving that process with PID 11 ran for 92500 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 11 into queue 3
+OSS: Unblocked PID 92 at 131:8402457
+OSS: Dispatching process with PID 92 from queue 1 at time 131:8402457
+OSS: total time this proc_dispatch was 974 nanoseconds
+OSS: Receiving that process with PID 92 is WAITING for event(132:8403959) 131:8403431
+OSS: Putting process with PID 92 into queue 4
+OSS: Unblocked PID 92 at 132:8404431
+OSS: Dispatching process with PID 92 from queue 1 at time 132:8404431
+OSS: total time this proc_dispatch was 1574 nanoseconds
+OSS: Receiving that process with PID 92 is WAITING for event(136:8406150) 132:8406005
+OSS: Putting process with PID 92 into queue 4
+OSS: Dispatching process with PID 16 from queue 2 at time 133:8407005
+OSS: total time this proc_dispatch was 1078 nanoseconds
+OSS: Receiving that process with PID 16 ran for 132500 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 16 into queue 3
+OSS: Dispatching process with PID 20 from queue 2 at time 134:8541583
+OSS: total time this proc_dispatch was 78 nanoseconds
+OSS: Receiving that process with PID 20 ran for 25000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 20 into queue 3
+OSS: Dispatching process with PID 21 from queue 2 at time 135:8567661
+OSS: total time this proc_dispatch was 1146 nanoseconds
+OSS: Receiving that process with PID 21 ran for 100000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 21 into queue 3
+OSS: Unblocked PID 92 at 136:8669807
+OSS: Dispatching process with PID 92 from queue 1 at time 136:8669807
+OSS: total time this proc_dispatch was 1339 nanoseconds
+OSS: Receiving that process with PID 92 is terminating
+OSS: Removing terminated process with PID 92 from queue 1
+OSS: Generating process with PID 1932 and putting it in queue 1 at time 137:8672146
+OSS: Dispatching process with PID 93 from queue 1 at time 137:8672146
+OSS: total time this proc_dispatch was 1629 nanoseconds
+OSS: Receiving that process with PID 93 is terminating
+OSS: Removing terminated process with PID 93 from queue 1
+OSS: Generating process with PID 1933 and putting it in queue 1 at time 138:8674775
+OSS: Dispatching process with PID 94 from queue 1 at time 138:8674775
+OSS: total time this proc_dispatch was 1597 nanoseconds
+OSS: Receiving that process with PID 94 is WAITING for event(141:8676639) 138:8676372
+OSS: Putting process with PID 94 into queue 4
+OSS: Dispatching process with PID 29 from queue 2 at time 139:8677372
+OSS: total time this proc_dispatch was 26 nanoseconds
+OSS: Receiving that process with PID 29 is terminating
+OSS: Removing terminated process with PID 29 from queue 2
+OSS: Generating process with PID 1934 and putting it in queue 1 at time 140:8678398
+OSS: Dispatching process with PID 95 from queue 1 at time 140:8678398
+OSS: total time this proc_dispatch was 416 nanoseconds
+OSS: Receiving that process with PID 95 is terminating
+OSS: Removing terminated process with PID 95 from queue 1
+OSS: Generating process with PID 1935 and putting it in queue 1 at time 141:8679814
+OSS: Unblocked PID 94 at 141:8679814
+OSS: Dispatching process with PID 96 from queue 1 at time 141:8679814
+OSS: total time this proc_dispatch was 744 nanoseconds
+OSS: Receiving that process with PID 96 ran for 25000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 96 into queue 2
+OSS: Dispatching process with PID 94 from queue 1 at time 142:8706558
+OSS: total time this proc_dispatch was 1822 nanoseconds
+OSS: Receiving that process with PID 94 is WAITING for event(144:8709207) 142:8708380
+OSS: Putting process with PID 94 into queue 4
+OSS: Dispatching process with PID 24 from queue 2 at time 143:8709380
+OSS: total time this proc_dispatch was 252 nanoseconds
+OSS: Receiving that process with PID 24 is terminating
+OSS: Removing terminated process with PID 24 from queue 2
+OSS: Generating process with PID 1936 and putting it in queue 1 at time 144:8710632
+OSS: Unblocked PID 94 at 144:8710632
+OSS: Dispatching process with PID 97 from queue 1 at time 144:8710632
+OSS: total time this proc_dispatch was 1829 nanoseconds
+OSS: Receiving that process with PID 97 is WAITING for event(146:8712916) 144:8712461
+OSS: Putting process with PID 97 into queue 4
+OSS: Dispatching process with PID 94 from queue 1 at time 145:8713461
+OSS: total time this proc_dispatch was 936 nanoseconds
+OSS: Receiving that process with PID 94 ran for 80000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 94 into queue 2
+OSS: Unblocked PID 97 at 146:8795397
+OSS: Dispatching process with PID 97 from queue 1 at time 146:8795397
+OSS: total time this proc_dispatch was 917 nanoseconds
+OSS: Receiving that process with PID 97 ran for 340000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 97 into queue 2
+OSS: Dispatching process with PID 27 from queue 2 at time 147:9137314
+OSS: total time this proc_dispatch was 674 nanoseconds
+OSS: Receiving that process with PID 27 is WAITING for event(150:9138203) 147:9137988
+OSS: Putting process with PID 27 into queue 4
+OSS: Dispatching process with PID 50 from queue 2 at time 148:9138988
+OSS: total time this proc_dispatch was 1332 nanoseconds
+OSS: Receiving that process with PID 50 is terminating
+OSS: Removing terminated process with PID 50 from queue 2
+OSS: Generating process with PID 1937 and putting it in queue 0 at time 149:9141320
+OSS: Dispatching process with PID 98 from queue 0 at time 149:9141320
+OSS: total time this proc_dispatch was 610 nanoseconds
+OSS: Receiving that process with PID 98 is terminating
+OSS: Removing terminated process with PID 98 from queue 0
+OSS: Generating process with PID 1938 and putting it in queue 0 at time 150:9142930
+OSS: Unblocked PID 27 at 150:9142930
+OSS: Dispatching process with PID 99 from queue 0 at time 150:9142930
+OSS: total time this proc_dispatch was 258 nanoseconds
+OSS: Receiving that process with PID 99 is terminating
+OSS: Removing terminated process with PID 99 from queue 0
+OSS: Generating process with PID 1939 and putting it in queue 0 at time 151:9144188
+OSS: Dispatching process with PID 100 from queue 0 at time 151:9144188
+OSS: total time this proc_dispatch was 911 nanoseconds
+OSS: Receiving that process with PID 100 ran for 740000 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 100 into queue 0
+OSS: Dispatching process with PID 100 from queue 0 at time 152:9886099
+OSS: total time this proc_dispatch was 1515 nanoseconds
+OSS: Receiving that process with PID 100 is terminating
+OSS: Removing terminated process with PID 100 from queue 0
+OSS: Dispatching process with PID 27 from queue 1 at time 153:9888614
+OSS: total time this proc_dispatch was 1265 nanoseconds
+OSS: Receiving that process with PID 27 is terminating
+OSS: Removing terminated process with PID 27 from queue 1
+OSS: Dispatching process with PID 54 from queue 2 at time 154:9890879
+OSS: total time this proc_dispatch was 355 nanoseconds
+OSS: Receiving that process with PID 54 is terminating
+OSS: Removing terminated process with PID 54 from queue 2
+OSS: Dispatching process with PID 57 from queue 2 at time 155:9892234
+OSS: total time this proc_dispatch was 1840 nanoseconds
+OSS: Receiving that process with PID 57 is WAITING for event(159:9894227) 155:9894074
+OSS: Putting process with PID 57 into queue 4
+OSS: Dispatching process with PID 60 from queue 2 at time 156:9895074
+OSS: total time this proc_dispatch was 1564 nanoseconds
+OSS: Receiving that process with PID 60 is terminating
+OSS: Removing terminated process with PID 60 from queue 2
+OSS: Dispatching process with PID 70 from queue 2 at time 157:9897638
+OSS: total time this proc_dispatch was 674 nanoseconds
+OSS: Receiving that process with PID 70 is terminating
+OSS: Removing terminated process with PID 70 from queue 2
+OSS: Dispatching process with PID 72 from queue 2 at time 158:9899312
+OSS: total time this proc_dispatch was 1395 nanoseconds
+OSS: Receiving that process with PID 72 is WAITING for event(161:9901211) 158:9900707
+OSS: Putting process with PID 72 into queue 4
+OSS: Unblocked PID 57 at 159:9901707
+OSS: Dispatching process with PID 57 from queue 1 at time 159:9901707
+OSS: total time this proc_dispatch was 885 nanoseconds
+OSS: Receiving that process with PID 57 is WAITING for event(162:9903407) 159:9902592
+OSS: Putting process with PID 57 into queue 4
+OSS: Dispatching process with PID 69 from queue 2 at time 160:9903592
+OSS: total time this proc_dispatch was 1144 nanoseconds
+OSS: Receiving that process with PID 69 ran for 222499 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 69 into queue 3
+OSS: Unblocked PID 72 at 161:10128235
+OSS: Dispatching process with PID 72 from queue 1 at time 161:10128235
+OSS: total time this proc_dispatch was 289 nanoseconds
+OSS: Receiving that process with PID 72 ran for 109999 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 72 into queue 2
+OSS: Unblocked PID 57 at 162:10239523
+OSS: Dispatching process with PID 57 from queue 1 at time 162:10239523
+OSS: total time this proc_dispatch was 341 nanoseconds
+OSS: Receiving that process with PID 57 is terminating
+OSS: Removing terminated process with PID 57 from queue 1
+OSS: Dispatching process with PID 56 from queue 2 at time 163:10240864
+OSS: total time this proc_dispatch was 1227 nanoseconds
+OSS: Receiving that process with PID 56 ran for 2500 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 56 into queue 3
+OSS: Dispatching process with PID 88 from queue 2 at time 164:10245591
+OSS: total time this proc_dispatch was 1462 nanoseconds
+OSS: Receiving that process with PID 88 ran for 27499 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 88 into queue 3
+OSS: Dispatching process with PID 89 from queue 2 at time 165:10275552
+OSS: total time this proc_dispatch was 1438 nanoseconds
+OSS: Receiving that process with PID 89 ran for 152500 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 89 into queue 3
+OSS: Dispatching process with PID 96 from queue 2 at time 166:10430490
+OSS: total time this proc_dispatch was 1796 nanoseconds
+OSS: Receiving that process with PID 96 is terminating
+OSS: Removing terminated process with PID 96 from queue 2
+OSS: Dispatching process with PID 94 from queue 2 at time 167:10433286
+OSS: total time this proc_dispatch was 836 nanoseconds
+OSS: Receiving that process with PID 94 is WAITING for event(171:10434925) 167:10434122
+OSS: Putting process with PID 94 into queue 4
+OSS: Dispatching process with PID 97 from queue 2 at time 168:10435122
+OSS: total time this proc_dispatch was 936 nanoseconds
+OSS: Receiving that process with PID 97 is terminating
+OSS: Removing terminated process with PID 97 from queue 2
+OSS: Dispatching process with PID 72 from queue 2 at time 169:10437058
+OSS: total time this proc_dispatch was 1295 nanoseconds
+OSS: Receiving that process with PID 72 is terminating
+OSS: Removing terminated process with PID 72 from queue 2
+OSS: Dispatching process with PID 4 from queue 3 at time 170:10439353
+OSS: total time this proc_dispatch was 602 nanoseconds
+OSS: Receiving that process with PID 4 ran for 27499 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 4 into queue 3
+OSS: Unblocked PID 94 at 171:10468454
+OSS: Dispatching process with PID 94 from queue 1 at time 171:10468454
+OSS: total time this proc_dispatch was 1321 nanoseconds
+OSS: Receiving that process with PID 94 is terminating
+OSS: Removing terminated process with PID 94 from queue 1
+OSS: Dispatching process with PID 10 from queue 3 at time 172:10470775
+OSS: total time this proc_dispatch was 979 nanoseconds
+OSS: Receiving that process with PID 10 is WAITING for event(175:10472369) 172:10471754
+OSS: Putting process with PID 10 into queue 4
+OSS: Dispatching process with PID 11 from queue 3 at time 173:10472754
+OSS: total time this proc_dispatch was 968 nanoseconds
+OSS: Receiving that process with PID 11 ran for 13749 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 11 into queue 3
+OSS: Dispatching process with PID 16 from queue 3 at time 174:10488471
+OSS: total time this proc_dispatch was 1467 nanoseconds
+OSS: Receiving that process with PID 16 is terminating
+OSS: Removing terminated process with PID 16 from queue 3
+OSS: Unblocked PID 10 at 175:10490938
+OSS: Dispatching process with PID 10 from queue 1 at time 175:10490938
+OSS: total time this proc_dispatch was 1766 nanoseconds
+OSS: Receiving that process with PID 10 is terminating
+OSS: Removing terminated process with PID 10 from queue 1
+OSS: Dispatching process with PID 20 from queue 3 at time 176:10493704
+OSS: total time this proc_dispatch was 781 nanoseconds
+OSS: Receiving that process with PID 20 is terminating
+OSS: Removing terminated process with PID 20 from queue 3
+OSS: Dispatching process with PID 21 from queue 3 at time 177:10495485
+OSS: total time this proc_dispatch was 1187 nanoseconds
+OSS: Receiving that process with PID 21 is terminating
+OSS: Removing terminated process with PID 21 from queue 3
+OSS: Dispatching process with PID 69 from queue 3 at time 178:10497672
+OSS: total time this proc_dispatch was 1372 nanoseconds
+OSS: Receiving that process with PID 69 is terminating
+OSS: Removing terminated process with PID 69 from queue 3
+OSS: Dispatching process with PID 56 from queue 3 at time 179:10500044
+OSS: total time this proc_dispatch was 1807 nanoseconds
+OSS: Receiving that process with PID 56 ran for 76250 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 56 into queue 3
+OSS: Dispatching process with PID 88 from queue 3 at time 180:10579101
+OSS: total time this proc_dispatch was 1543 nanoseconds
+OSS: Receiving that process with PID 88 ran for 109999 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 88 into queue 3
+OSS: Dispatching process with PID 89 from queue 3 at time 181:10691643
+OSS: total time this proc_dispatch was 1316 nanoseconds
+OSS: Receiving that process with PID 89 ran for 122500 nanoseconds
+OSS: not using its entire quantum
+OSS: Putting process with PID 89 into queue 3
+OSS: Dispatching process with PID 4 from queue 3 at time 182:10816459
+OSS: total time this proc_dispatch was 742 nanoseconds
+OSS: Receiving that process with PID 4 is WAITING for event(186:10817805) 182:10817201
+OSS: Putting process with PID 4 into queue 4
+OSS: Dispatching process with PID 11 from queue 3 at time 183:10818201
+OSS: total time this proc_dispatch was 1336 nanoseconds
+OSS: Receiving that process with PID 11 is terminating
+OSS: Removing terminated process with PID 11 from queue 3
+OSS: Dispatching process with PID 56 from queue 3 at time 184:10820537
+OSS: total time this proc_dispatch was 717 nanoseconds
+OSS: Receiving that process with PID 56 is WAITING for event(187:10821505) 184:10821254
+OSS: Putting process with PID 56 into queue 4
+OSS: Dispatching process with PID 88 from queue 3 at time 185:10822254
+OSS: total time this proc_dispatch was 886 nanoseconds
+OSS: Receiving that process with PID 88 is terminating
+OSS: Removing terminated process with PID 88 from queue 3
+OSS: Unblocked PID 4 at 186:10824140
+OSS: Dispatching process with PID 4 from queue 1 at time 186:10824140
+OSS: total time this proc_dispatch was 741 nanoseconds
+OSS: Receiving that process with PID 4 is WAITING for event(188:10825859) 186:10824881
+OSS: Putting process with PID 4 into queue 4
+OSS: Unblocked PID 56 at 187:10825881
+OSS: Dispatching process with PID 56 from queue 1 at time 187:10825881
+OSS: total time this proc_dispatch was 1494 nanoseconds
+OSS: Receiving that process with PID 56 is terminating
+OSS: Removing terminated process with PID 56 from queue 1
+OSS: Unblocked PID 4 at 188:10828375
+OSS: Dispatching process with PID 4 from queue 1 at time 188:10828375
+OSS: total time this proc_dispatch was 1818 nanoseconds
+OSS: Receiving that process with PID 4 is WAITING for event(188:10830435) 188:10830193
+OSS: Putting process with PID 4 into queue 4
+OSS: Unblocked PID 4 at 189:10831193
+OSS: Dispatching process with PID 4 from queue 1 at time 189:10831193
+OSS: total time this proc_dispatch was 1813 nanoseconds
+OSS: Receiving that process with PID 4 is terminating
+OSS: Removing terminated process with PID 4 from queue 1
+OSS: Dispatching process with PID 89 from queue 3 at time 190:10834006
+OSS: total time this proc_dispatch was 364 nanoseconds
+OSS: Receiving that process with PID 89 is terminating
+OSS: Removing terminated process with PID 89 from queue 3
+OSS: Total simulated time 190:10834370
+Timers:
+Average Turnaround: 28:1902591
+Average Wait: 64:4245087
+Total Idle: 18146:49497661
+Processes:
+Started: 100
+Blocked: 44
+Terminated: 100
