@@ -1,5 +1,5 @@
 CC=gcc
-#CFLAGS=-Wall -g -pedantic
+
 LDFLAGS=-lrt
 
 default: oss user
